@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**ManresaDev/ManresaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Yo soy Manuel,
 
-Here are some ideas to get you started:
+Android Developer con 2 años de experiencia.
+Como desarrollador, mi objetivo principal es crear y construir aplicaciones adaptadas a las necesidades del cliente.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Durante toda mi formación como desarrollador, he adquirido ciertos conocimientos que me gustaría destacar: 
+- Java y Kotlin
+- Arquitecturas de software (MVC, MVP Y MVVM)
+- Bibliotecas android jetpack (ViewModel, ViewBinding, Room, Retrofit2...)
+- Inyección de dependencias (Dagger hilt)
+- Firebase (Firebase authentication, realtime database, firestore)
+- Conocimiento en bases de datos (MySQL, MongoDB)
+- API REST (SpringBoot, NodeJS)
+- Control de versiones (Git, Github, Bitbucket)
+
+Actualmente me encuentro aumentando conocimientos sobre Jetpack compose, el nuevo framework que nos ha facilitado Google ya que elimina por completo los XML y cambia el paradigma de programación.

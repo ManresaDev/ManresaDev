@@ -1,11 +1,13 @@
 
 Yo soy Manuel,
 
-Android Developer con 2 años de experiencia.
+Android Developer con 4 años de experiencia.
 Como desarrollador, mi objetivo principal es crear y construir aplicaciones adaptadas a las necesidades del cliente.
 
 Durante toda mi formación como desarrollador, he adquirido ciertos conocimientos que me gustaría destacar: 
 - Java y Kotlin
+- Jetpack Compose
+- Android TV
 - Arquitecturas de software (MVC, MVP Y MVVM)
 - Bibliotecas android jetpack (ViewModel, ViewBinding, Room, Retrofit2...)
 - Inyección de dependencias (Dagger hilt)
